@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.mulanxb.com/sitemap.xml
